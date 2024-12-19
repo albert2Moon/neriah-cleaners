@@ -1,0 +1,64 @@
+.quote-container {
+    /* border: 1px solid orange; */
+    padding: 50px 100px;
+    /* background-color: #29a9d2; */
+    color: #ccffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    position: relative;
+}
+.quote-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background: url(../../assets/quotebg.jpeg);
+    overflow: hidden;
+    object-fit: contain;
+}
+.quote-bg img {
+    width: 100%;
+    height: auto;
+}
+.quote-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background: #29a8d2d0; */
+    background: #003d73d0;
+    z-index: -1;
+}
+
+/* .quote-cards {
+    border: 1px solid orange;
+} */
+
+.qC1 {
+    width: 550px !important;
+}
+
+.qC2 {
+    width: 4px;
+    background: #ccffff;
+    border-radius: 50px;
+}
+.qC3 {
+    width: 250px;
+}
+
+.qC3 button {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.qC1 h1 {
+    color: #ffffff;
+    font-size: 2.5rem;
+    line-height: 1.3;
+}

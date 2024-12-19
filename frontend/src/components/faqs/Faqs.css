@@ -1,0 +1,18 @@
+.faqs-section {
+    /* border: 1px solid orange; */
+    padding: 120px 0 50px;
+    margin-bottom: 100px;
+}
+
+.faqs-container {
+    width: 90%;
+    margin: auto;
+}
+
+.faqs-container .section-title .st1 {
+    display: none;
+}
+
+.wcu-faq-card {
+    cursor: default;
+}

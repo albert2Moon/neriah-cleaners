@@ -1,0 +1,147 @@
+.contact-us-container {
+    /* border: 1px solid orange; */
+    width: 80%;
+    margin: auto;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+}
+
+.contact-us-container .section-title .st1 {
+    display:none;
+}
+
+.contact-us-container h1 {
+    margin-bottom: 10px;
+    color: #2e2e2e;
+    
+}
+
+.contact-card-container {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.contact-card1 {
+    /* border: 1px solid orange; */
+    width: 520px;
+}
+
+.vertical-divider {
+    height: 300px;
+    width: 3px;
+    border-radius: 30px;
+    background: #29a9d2;
+}
+
+.contact-card2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact-card2 h1 {
+    margin: 0;
+}
+
+.contact-card-info {
+    /* border: 1px solid orange; */
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    background: #29a9d2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 35px;
+}
+
+.cci {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+.cci > div:nth-of-type(1) i {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.cci > div:nth-of-type(2) {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.cci > div:nth-of-type(2) h3  {
+    color: #ffffff;
+}
+
+.cci > div:nth-of-type(2) a  {
+    color: #f5f5f5;
+}
+
+.cci > div:nth-of-type(2) p  {
+    color: #f5f5f5;
+}
+
+.cci-divider {
+    height: 3px;
+    background: #ffffff;
+    border-radius: 30px;
+}
+
+.contact-card-socials {
+    /* border: 1px solid orange; */
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    padding: 0 20px;
+    background: #29a9d2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/* .ccs {
+    border: 1px solid orange;
+} */
+
+.ccs i {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.contact-us-form-btn {
+    /* border: 1px solid orange; */
+    background: #29a9d2;
+    width: 100%;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
+.contact-us-form {
+    /* border: 1px solid orange; */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+
+    /* background: #ccffff; */
+}
+
+fieldset {
+    max-width: 500px;
+    border-radius: 15px;
+    border: 2px solid #29a9d2;
+    margin-left: 20px;
+}
+legend {
+    margin-left: 30px;
+    padding: 0 10px;
+    color: #4e4e4e;
+}
+

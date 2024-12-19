@@ -1,0 +1,83 @@
+.about-container {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 10px 20px;
+}
+.about-img {
+    /* border: 1px solid orange; */
+    height: 450px;
+    width: 450px;
+}
+.about-img img {
+    height: 100%;
+    width: 100%;
+}
+
+.about-card2 {
+    /* border: 1px solid orange; */
+    width: 500px;
+    padding: 10px;
+}
+
+.about-card2>h1 {
+    font-size: 36px;
+}
+
+.section-title {
+    /* border: 1px solid orange; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.st1, .st3 {
+    background: #29a9d2;
+    height: 2.2px;
+    width: 60px;
+    border-radius: 30px;
+}
+.st2 > h5 {
+    color: #29a9d2;
+}
+
+.about-container .section-title .st1 {
+    display: none;
+}
+
+.abt-paragraph {
+    margin-bottom: 12px;
+}
+
+.about-values {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.av-1 {
+    /* border: 1px solid orange; */
+    width: 200px;
+}
+.av-1 > p i {
+    font-size: 18px;
+    color: #29a9d2;
+}
+
+
+.about-button > button {
+    width: 200px;
+    font-size: 16px;
+}
+
+.about-button button a {
+    color: #ffffff;
+    font-size: 16px;
+}

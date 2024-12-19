@@ -1,0 +1,97 @@
+.hww-section {
+    padding: 50px 0;
+}
+.hww-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hww-container h1 {
+    font-size: 2.5rem;
+    color: #2e2e2e;
+    margin-bottom: 10px;
+}
+
+.hww-card-container {
+    /* border: 1px solid orange; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.hww-filler {
+    background: #29a9d2;
+    height: 2px;
+    width: 200px;
+    border-radius: 30px;
+    margin-top: 80px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.hww-filler > i {
+    position: absolute;
+    font-size: 24px;
+    color: #29a9d2;
+
+}
+
+.hww-card {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 150px;
+}
+
+
+.hww-card-badge {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: #29a9d2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.hww-card-img {
+    border: 3px solid #29a9d2;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.hww-card-img > img {
+    width: 80px;
+    height: 80px;
+}
+.hww-card-body {
+    /* border: 1px solid orange; */
+    text-align: center;
+    width: 230px;
+}
+
+.hww-card-body h3 {
+    color: #2e2e2e;
+}

@@ -1,0 +1,102 @@
+.header-section {
+    /* border: 1px solid orange; */
+    background: url(../../assets/headerbg.jpeg) no-repeat ;
+    background-size: cover;
+    background-position: top;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100dvh;
+}
+.header-container {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.header-card1 {
+    /* border: 1px solid orange; */
+    width: 600px;
+}
+
+.header-top {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+.header-top p {
+    font-weight: 500;
+    color: #4e4e4e;
+}
+
+.header-title {
+    /* border: 1px solid orange; */
+    margin-bottom: 30px;
+}
+
+.header-title h1 {
+    font-size: 2.8rem;
+    line-height: 1.3;
+    margin-bottom: 10px;
+    color: #2e2e2e;
+}
+
+.header-card2 {
+    /* border: 1px solid orange; */
+    width: 500px;
+}
+.header-img img {
+    width: 100%;
+    
+}
+
+.header-cta-btns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.header-cta-btns button {
+    width: 200px;
+}
+.header-cta-btns button:nth-of-type(2) {
+    width: 300px;
+}
+
+.header-values {
+    /* border: 1px solid orange; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.hv-1 {
+    /* border: 1px solid orange; */
+    width: 280px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hv-1 > p {
+    color: #4e4e4e;
+}
+
+.hv-1 > p i {
+    font-size: 18px;
+    color: #29a9d2;
+}

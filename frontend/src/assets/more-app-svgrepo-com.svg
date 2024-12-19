@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-40 -40 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVGRepo_bgCarrier" stroke-width="0">
+    <path transform="translate(-40.04, -40.04), scale(4)" d="M16,29.483212787125794C20.435094903881087,29.777545283464793,25.354515995293696,29.144528294551908,28.07392734579351,25.62863575756988C30.763057774071157,22.15189304190278,29.9059638056802,17.32580067312419,28.66452856630471,13.10940399851331C27.53815036676489,9.283785759028643,25.246014426283203,5.982728904591774,21.733533782880343,4.094194421878642C17.997654039171977,2.085546279570991,13.526720863526782,1.08831576884119,9.696714460681722,2.9110927089005916C5.849750094710663,4.7419402840674145,3.7398093159743544,8.835581224990264,2.9673718118052186,13.025387661891415C2.2378018286616905,16.982674814633413,3.283124851622931,20.994539510658253,5.7812338097398595,24.149194103943685C8.2908720271918,27.318408042529168,11.966324050696656,29.215520226467827,16,29.483212787125794" fill="#cef3ff" strokewidth="0"/>
+</g>
+<g>
+<rect width="" height="48" fill="white" fill-opacity="0.01"/>
+<rect x="4" y="4" width="16" height="16" rx="2" fill="#cef3ff" stroke="#29a9d2" stroke-width="2" stroke-linejoin="round"/>
+<rect x="4" y="28" width="16" height="16" rx="2" fill="#cef3ff" stroke="#29a9d2" stroke-width="2" stroke-linejoin="round"/>
+<rect x="28" y="4" width="16" height="16" rx="2" fill="#cef3ff" stroke="#29a9d2" stroke-width="2" stroke-linejoin="round"/>
+<path d="M28 28H44" stroke="#29a9d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 36H44" stroke="#29a9d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 44H44" stroke="#29a9d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
